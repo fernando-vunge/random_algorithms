@@ -1,5 +1,6 @@
 #include <inttypes.h>
 #include <stdio.h>
+
 uint64_t rowSumOddNumbers(uint32_t n)
 {
 	uint64_t row_sum;
