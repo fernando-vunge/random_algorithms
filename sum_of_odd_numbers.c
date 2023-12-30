@@ -28,6 +28,6 @@ uint64_t rowSumOddNumbers(uint32_t n)
 
 int main(int argc, char const *argv[])
 {
-	printf("%"PRIu64"\n", rowSumOddNumbers(3));
+	printf("%"PRIu64"\n", rowSumOddNumbers(42));
 	return 0;
 }
