@@ -46,7 +46,7 @@ int main()
         }
         printf("\n");
 
-        // Liberar a memória alocada
+        // Libertar a memória alocada
         free(result);
     }
     else
