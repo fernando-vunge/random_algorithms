@@ -1,11 +1,13 @@
 # algoritmos aleatórios / random algorithms
 # tribonacci
-PT |A sequência tribonacci é uma generalização da sequência de Fibonacci onde cada termo é a soma dos três termos anteriores.
-EN |The tribonacci sequence is a generalization of the Fibonacci sequence where each term is the sum of the three preceding terms.
+- PT |A sequência tribonacci é uma generalização da sequência de Fibonacci onde cada termo é a soma dos três termos anteriores.
+
+- EN |The tribonacci sequence is a generalization of the Fibonacci sequence where each term is the sum of the three preceding terms.
 
 # sum of odd numbers
-PT |Dado o triângulo de números ímpares consecutivos:Calcule a soma dos números na enésima linha deste triângulo (começando no índice 1)
-EN |Given the triangle of consecutive odd numbers:Calculate the sum of the numbers in the nth row of this triangle (starting at index 1)
+- PT |Dado o triângulo de números ímpares consecutivos:Calcule a soma dos números na enésima linha deste triângulo (começando no índice 1)
+
+- EN |Given the triangle of consecutive odd numbers:Calculate the sum of the numbers in the nth row of this triangle (starting at index 1)
 
 # printer erros
 PT |Numa fábrica, uma impressora imprime etiquetas para caixas. Para um tipo de caixa a impressora tem que usar cores que, por uma questão de simplicidade, são nomeadas com letras de a a m.
